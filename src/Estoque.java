@@ -1,4 +1,4 @@
-// Arquivo: .java
+
 import java.util.*;
 
 class Estoque {
