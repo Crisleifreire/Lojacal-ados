@@ -1,4 +1,4 @@
-// Arquivo: LojaCalcados.java (classe Main)
+
 import java.util.*;
 
 public class LojaCalcados {
